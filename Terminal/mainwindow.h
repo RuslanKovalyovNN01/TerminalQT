@@ -2,6 +2,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include <QtCharts/QtCharts>
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -19,5 +20,7 @@ public:
 
 private:
     Ui::MainWindow *ui;
+    QChart *chrt;
+    QChart *acc_chrt;
 };
 #endif // MAINWINDOW_H

@@ -288,6 +288,7 @@ Makefile: ..\Terminal\Terminal.pro E:\newQt\6.10.2\msvc2022_64\mkspecs\win32-msv
 		E:\newQt\6.10.2\msvc2022_64\mkspecs\features\qt_config.prf \
 		E:\newQt\6.10.2\msvc2022_64\mkspecs\win32-msvc\qmake.conf \
 		E:\newQt\6.10.2\msvc2022_64\mkspecs\features\spec_post.prf \
+		.qmake.stash \
 		E:\newQt\6.10.2\msvc2022_64\mkspecs\features\exclusive_builds.prf \
 		E:\newQt\6.10.2\msvc2022_64\mkspecs\common\msvc-version.conf \
 		E:\newQt\6.10.2\msvc2022_64\mkspecs\features\toolchain.prf \
@@ -321,7 +322,6 @@ Makefile: ..\Terminal\Terminal.pro E:\newQt\6.10.2\msvc2022_64\mkspecs\win32-msv
 		E:\newQt\6.10.2\msvc2022_64\lib\Qt6Gui.prl \
 		E:\newQt\6.10.2\msvc2022_64\lib\Qt6Core.prl \
 		E:\newQt\6.10.2\msvc2022_64\lib\Qt6EntryPoint.prl \
-		.qmake.stash \
 		E:\newQt\6.10.2\msvc2022_64\mkspecs\features\build_pass.prf \
 		E:\newQt\6.10.2\msvc2022_64\lib\Qt6Chartsd.prl \
 		E:\newQt\6.10.2\msvc2022_64\lib\Qt6OpenGLWidgetsd.prl \
@@ -535,6 +535,7 @@ E:\newQt\6.10.2\msvc2022_64\mkspecs\features\qt_functions.prf:
 E:\newQt\6.10.2\msvc2022_64\mkspecs\features\qt_config.prf:
 E:\newQt\6.10.2\msvc2022_64\mkspecs\win32-msvc\qmake.conf:
 E:\newQt\6.10.2\msvc2022_64\mkspecs\features\spec_post.prf:
+.qmake.stash:
 E:\newQt\6.10.2\msvc2022_64\mkspecs\features\exclusive_builds.prf:
 E:\newQt\6.10.2\msvc2022_64\mkspecs\common\msvc-version.conf:
 E:\newQt\6.10.2\msvc2022_64\mkspecs\features\toolchain.prf:
@@ -568,7 +569,6 @@ E:\newQt\6.10.2\msvc2022_64\lib\Qt6OpenGL.prl:
 E:\newQt\6.10.2\msvc2022_64\lib\Qt6Gui.prl:
 E:\newQt\6.10.2\msvc2022_64\lib\Qt6Core.prl:
 E:\newQt\6.10.2\msvc2022_64\lib\Qt6EntryPoint.prl:
-.qmake.stash:
 E:\newQt\6.10.2\msvc2022_64\mkspecs\features\build_pass.prf:
 E:\newQt\6.10.2\msvc2022_64\lib\Qt6Chartsd.prl:
 E:\newQt\6.10.2\msvc2022_64\lib\Qt6OpenGLWidgetsd.prl:
