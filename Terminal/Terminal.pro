@@ -11,11 +11,15 @@ CONFIG += c++17
 SOURCES += \
     fileutils.cpp \
     main.cpp \
-    mainwindow.cpp
+    mainwindow.cpp \
+    serialport.cpp \
+    series.cpp
 
 HEADERS += \
     fileutils.h \
-    mainwindow.h
+    mainwindow.h \
+    serialport.h \
+    series.h
 
 FORMS += \
     mainwindow.ui
